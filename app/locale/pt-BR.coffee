@@ -5,7 +5,7 @@ module.exports = nativeDescription: "português do Brasil", englishDescription: 
     sending: "Enviando..."
     cancel: "Cancelar"
     save: "Salvar"
-#    create: "Create"
+    create: "Criar"
     delay_1_sec: "1 segundo"
     delay_3_sec: "3 segundos"
     delay_5_sec: "5 segundos"
@@ -13,13 +13,13 @@ module.exports = nativeDescription: "português do Brasil", englishDescription: 
     fork: "Fork"
     play: "Jogar"
 
-#  units:
-#    second: "second"
-#    seconds: "seconds"
-#    minute: "minute"
-#    minutes: "minutes"
-#    hour: "hour"
-#    hours: "hours"
+  medidas:
+    second: "segundo"
+    seconds: "segundos"
+    minute: "minuto"
+    minutes: "minutos"
+    hour: "hora"
+    hours: "horas"
 
   modal:
     close: "Fechar"
@@ -53,7 +53,7 @@ module.exports = nativeDescription: "português do Brasil", englishDescription: 
   login:
     sign_up: "Criar conta"
     log_in: "Entrar"
-#    logging_in: "Logging In"
+    logging_in: "Entrando"
     log_out: "Sair"
     recover: "Recuperar sua conta"
 
@@ -226,8 +226,8 @@ module.exports = nativeDescription: "português do Brasil", englishDescription: 
     skip_tutorial: "Pular (esc)"
     editor_config: "Editor de Configurações"
     editor_config_title: "Editor de Configurações"
-#    editor_config_language_label: "Programming Language"
-#    editor_config_language_description: "Define the programming language you want to code in."
+    editor_config_language_label: "Linguagem de programação"
+    editor_config_language_description: "Define a linguagem de programação na qual você quer escrever."
     editor_config_keybindings_label: "Teclas de Atalho"
     editor_config_keybindings_default: "Padrão (Ace)"
     editor_config_keybindings_description: "Adicionar atalhos conhecidos de editores comuns."
@@ -237,7 +237,7 @@ module.exports = nativeDescription: "português do Brasil", englishDescription: 
     editor_config_indentguides_description: "Mostrar linhas verticais para ver a identação melhor."
     editor_config_behaviors_label: "Comportamentos Inteligentes"
     editor_config_behaviors_description: "Completar automaticamente colchetes, chaves e aspas."
-#    loading_ready: "Ready!"
+    loading_ready: "Pronto!"
 #    tip_insert_positions: "Shift+Click a point on the map to insert it into the spell editor."
 #    tip_toggle_play: "Toggle play/paused with Ctrl+P."
 #    tip_scrub_shortcut: "Ctrl+[ and Ctrl+] rewind and fast-forward."
